@@ -342,6 +342,7 @@ pod:
 
   extraVolumeMounts: []
   extraVolumes: []
+  initContainers: []
 
 ##
 ## Kubernetes Pod Disruption Budget
